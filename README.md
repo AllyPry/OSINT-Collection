@@ -97,3 +97,64 @@ https://github.com/RR-Studios/phone_number_tracker/
 https://github.com/leakinfobot/probiv
 https://github.com/Gobutsu/BehindIt
 https://github.com/ninoseki/mitaka
+
+## Web Tools for OSINT
+
+**Username Checkers:**
+https://namechk.com/
+http://knowem.com/
+https://www.namecheckr.com/
+https://usersearch.org/
+https://thatsthem.com/
+http://checkusernames.com/
+https://namecheckup.com/
+https://instantusername.com/
+Email Searchers:
+https://thatsthem.com/reverse-email-lookup
+http://www.melissadata.com/lookups/emails.asp
+https://pipl.com/
+https://epieos.com/
+http://www.reversegenie.com/email.php
+
+**Email Data Leaks:**
+https://haveibeenpwned.com/
+[/url]https://www.vigilante.pw/
+[url=https://dehashed.com/]https://dehashed.com/
+
+**IP Loggers:**
+https://ki.tc/
+https://grabify.link/
+https://iplogger.com/
+
+**IP Geolocation:**
+https://www.iplocation.net/
+https://www.infobyip.com/
+http://www.infosniper.net/
+
+**People Searcher:**
+http://www.familytreenow.com/
+[b]http://www.ussearch.com/
+https://nuwber.com/
+https://www.truepeoplesearch.com/
+
+**Court Records:**
+http://www.blackbookonline.info/USA-Coun...cords.aspx
+https://www.crimereports.com/
+
+**Geolocation Tools:**
+http://suncalc.net/
+http://www.gpsvisualizer.com/geocode
+https://dominoc925-pages.appspot.com/map..._mgrs.html
+https://www.doogal.co.uk/BatchGeocoding.php
+
+**Archives:**
+https://web-beta.archive.org/#/
+https://archive.org/web/
+https://databases.today/
+
+**Annonymous Persona Creation:**
+http://www.fakenamegenerator.com/
+http://justdelete.me/fake-identity-generator/
+https://randomuser.me/
+https://www.pexels.com/
+https://cdn.rawgit.com/Marak/faker.js/ma...index.html
