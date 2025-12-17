@@ -1,6 +1,6 @@
 # OSINT-Git-Collection
 
-**Best Git for OSINT**
+**Best Git for OSINT:**
 
 https://github.com/Alfredredbird/alfred
 https://github.com/aaarghhh/awesome_osin...n_analysis
