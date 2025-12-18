@@ -1,4 +1,4 @@
-# OSINT-Git-Collection
+# OSINT-Collection
 
 Usefull links qnd tools for OSINT
 
