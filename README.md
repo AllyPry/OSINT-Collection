@@ -1,6 +1,6 @@
 # OSINT-Git-Collection
 
-**Best Git for OSINT:**
+## Git for OSINT
 
 https://github.com/Alfredredbird/alfred
 https://github.com/aaarghhh/awesome_osin...n_analysis
@@ -109,7 +109,8 @@ https://thatsthem.com/
 http://checkusernames.com/
 https://namecheckup.com/
 https://instantusername.com/
-Email Searchers:
+
+**Email Searchers:**
 https://thatsthem.com/reverse-email-lookup
 http://www.melissadata.com/lookups/emails.asp
 https://pipl.com/
@@ -118,8 +119,8 @@ http://www.reversegenie.com/email.php
 
 **Email Data Leaks:**
 https://haveibeenpwned.com/
-[/url]https://www.vigilante.pw/
-[url=https://dehashed.com/]https://dehashed.com/
+https://www.vigilante.pw/
+https://dehashed.com/
 
 **IP Loggers:**
 https://ki.tc/
