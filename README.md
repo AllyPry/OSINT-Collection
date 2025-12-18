@@ -2,8 +2,8 @@
 
 ## Git for OSINT
 
--https://github.com/Alfredredbird/alfred
--https://github.com/aaarghhh/awesome_osin...n_analysis
+- https://github.com/Alfredredbird/alfred
+- https://github.com/aaarghhh/awesome_osin...n_analysis
 -https://github.com/blacklanternsecurity/bbot
 -https://github.com/bellingcat
 -https://github.com/bellingcat/telegram-p...er-checker
