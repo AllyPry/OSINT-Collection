@@ -2,19 +2,19 @@
 
 ## Git for OSINT
 
-https://github.com/Alfredredbird/alfred
-https://github.com/aaarghhh/awesome_osin...n_analysis
-https://github.com/blacklanternsecurity/bbot
-https://github.com/bellingcat
-https://github.com/bellingcat/telegram-p...er-checker
-https://github.com/bitquery/explorer
-https://github.com/p1ngul1n0/blackbird
-https://github.com/IvanGlinkin/CCTV
-https://github.com/chiasmod0n/chiasmodon
-https://github.com/jkakavas/creepy
-https://github.com/m8sec/CrossLinked
-https://github.com/micro-joan/D4TA-HUNTER
-https://github.com/DataSploit/datasploit
+-https://github.com/Alfredredbird/alfred
+-https://github.com/aaarghhh/awesome_osin...n_analysis
+-https://github.com/blacklanternsecurity/bbot
+-https://github.com/bellingcat
+-https://github.com/bellingcat/telegram-p...er-checker
+-https://github.com/bitquery/explorer
+-https://github.com/p1ngul1n0/blackbird
+-https://github.com/IvanGlinkin/CCTV
+-https://github.com/chiasmod0n/chiasmodon
+-https://github.com/jkakavas/creepy
+-https://github.com/m8sec/CrossLinked
+-https://github.com/micro-joan/D4TA-HUNTER
+-https://github.com/DataSploit/datasploit
 https://github.com/HalilDeniz/DNSWatch
 https://github.com/AnonCatalyst/DocMan
 https://github.com/OSINT-TECHNOLOGIES/dpulse
