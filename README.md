@@ -4,23 +4,23 @@
 
 - https://github.com/Alfredredbird/alfred
 - https://github.com/aaarghhh/awesome_osin...n_analysis
--https://github.com/blacklanternsecurity/bbot
--https://github.com/bellingcat
--https://github.com/bellingcat/telegram-p...er-checker
--https://github.com/bitquery/explorer
--https://github.com/p1ngul1n0/blackbird
--https://github.com/IvanGlinkin/CCTV
--https://github.com/chiasmod0n/chiasmodon
--https://github.com/jkakavas/creepy
--https://github.com/m8sec/CrossLinked
--https://github.com/micro-joan/D4TA-HUNTER
--https://github.com/DataSploit/datasploit
-https://github.com/HalilDeniz/DNSWatch
-https://github.com/AnonCatalyst/DocMan
-https://github.com/OSINT-TECHNOLOGIES/dpulse
-https://github.com/retr0-g04t/EagleOsint
-https://github.com/bellingcat/EDGAR
-https://github.com/N0rz3/Eyes
+- https://github.com/blacklanternsecurity/bbot
+- https://github.com/bellingcat
+- https://github.com/bellingcat/telegram-p...er-checker
+- https://github.com/bitquery/explorer
+- https://github.com/p1ngul1n0/blackbird
+- https://github.com/IvanGlinkin/CCTV
+- https://github.com/chiasmod0n/chiasmodon
+- https://github.com/jkakavas/creepy
+- https://github.com/m8sec/CrossLinked
+- https://github.com/micro-joan/D4TA-HUNTER
+- https://github.com/DataSploit/datasploit
+- https://github.com/HalilDeniz/DNSWatch
+- https://github.com/AnonCatalyst/DocMan
+- https://github.com/OSINT-TECHNOLOGIES/dpulse
+- https://github.com/retr0-g04t/EagleOsint
+- https://github.com/bellingcat/EDGAR
+- https://github.com/N0rz3/Eyes
 https://github.com/ElevenPaths/FOCA
 https://github.com/Alb-310/Geogramint
 https://github.com/coldfusion39/geOSINT
@@ -85,24 +85,25 @@ https://github.com/z0m31en7/Uscrapper
 https://github.com/alentum/sitemapper-nodejs
 https://github.com/C3n7ral051nt4g3ncy/WebOSINT
 https://github.com/lissy93/web-check
-https://github.com/devbret/website-internal-links
-https://github.com/WebBreacher/WhatsMyName
-https://github.com/TermuxHackz/X-osint
-https://github.com/evilsocket/xray
-https://github.com/0x0be/yesitsme
-https://github.com/WebBreacher/yoga
-https://github.com/N0rz3/Zehef
-https://github.com/AnonCatalyst/Odinova
-https://github.com/RR-Studios/phone_number_tracker/
-https://github.com/leakinfobot/probiv
-https://github.com/Gobutsu/BehindIt
-https://github.com/ninoseki/mitaka
+- https://github.com/devbret/website-internal-links
+- https://github.com/WebBreacher/WhatsMyName
+- https://github.com/TermuxHackz/X-osint
+- https://github.com/evilsocket/xray
+- https://github.com/0x0be/yesitsme
+- https://github.com/WebBreacher/yoga
+- https://github.com/N0rz3/Zehef
+- https://github.com/AnonCatalyst/Odinova
+- https://github.com/RR-Studios/phone_number_tracker/
+- https://github.com/leakinfobot/probiv
+- https://github.com/Gobutsu/BehindIt
+- https://github.com/ninoseki/mitaka
 
 ## Web Tools for OSINT
 
 **Username Checkers:**
 
 https://namechk.com/
+
 http://knowem.com/
 https://www.namecheckr.com/
 https://usersearch.org/
